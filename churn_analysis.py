@@ -131,4 +131,4 @@ print('ANN CM\n', cm)
 doc = 'model.save'
 pickle.dump(classifier, open(doc, 'wb'))
 
-#%% other classifier
+#%% 
