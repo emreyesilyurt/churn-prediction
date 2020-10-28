@@ -14,7 +14,7 @@
   Churn prediction modeling techniques attempt to understand the precise customer behaviors and attributes which signal the risk and timing of customer churn. The accuracy of the technique used is obviously critical to the success of any proactive retention efforts. After all, if the marketer is unaware of a customer about to churn, no action will be taken for that customer. Additionally, special retention-focused offers or incentives may be inadvertently provided to happy, active customers, resulting in reduced revenues for no good reason.
 
 
-## Dataset --->  [!Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
+## Dataset --->  [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 ### Context
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
